@@ -3,6 +3,11 @@
 ## Overview
 The Mood Recognition project aims to develop an intelligent system capable of identifying and analyzing human emotions through facial expressions. The project leverages machine learning and computer vision techniques to provide accurate and real-time mood detection, which can be applied in various domains such as healthcare, marketing, and user experience enhancement.
 
+## Results:
+![Sample Test](<img width="250" alt="Screenshot 2024-07-08 110226" src="https://github.com/SarthVader2004/MoodRecog/assets/138626629/b6059d9e-d6a2-4c9a-8b70-342cbb612c99">
+.png)
+
+
 ## Features
 - **Real-Time Emotion Detection**: Detect and analyze emotions using live video feeds.
 - **Multi-Emotion Classification**: Identify multiple emotions such as happiness, sadness, anger, surprise, and neutrality.
